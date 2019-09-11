@@ -1,0 +1,12 @@
+{  
+    "name": "接口文档",
+    "version": "1.0.0",  
+    "description": "API",
+    "title": "apidoc接口对接文档",
+    "url": "https://[base_domain]",
+    "forceLanguage":"zh-cn",
+    "template": {  
+        "withCompare": true,  
+        "withGenerator": true  
+    }  
+}  
